@@ -5,7 +5,7 @@ I am a developer, a coder and a enthusiast. I generally love to exploring Comput
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshagarwal94)](https://github.com/harshagarwal94/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagarwal94&layout=compact)](https://github.com/harshagarwal94/github-readme-stats)
 <!--
 **harshagarwal94/harshagarwal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
