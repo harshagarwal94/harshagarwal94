@@ -8,6 +8,8 @@ I am a developer, a coder and a enthusiast. I generally love to exploring Comput
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagarwal94&layout=compact)](https://github.com/harshagarwal94/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshagarwal94&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **harshagarwal94/harshagarwal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
