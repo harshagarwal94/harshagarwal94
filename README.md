@@ -1,4 +1,4 @@
-# Hii everyone :wave:
+#                                                                           Hii everyone, Great to have you here :wave:
 ## About me
 I am a developer, a coder and a enthusiast. I generally love to exploring Computer Science.and its related technologies.  In general I really loves programming languages, especially  c/c++,python,html and css,javascript and others.I work on the field of web development and other kind of skills. My research paper on the topic of Credit Risk Anaysis using Machine learning a survey is under the pipeline. Hobbies include to help others as mentors( Helped 413 students by the help of careers360 campus ambassador in just a small period of 6 months.) and exploring world facts. At present I am pursuing my Bechlors of technology in computer science and technology (SCSE) @Vellore Institute of Technology(VIT) Bhopal. 
 
