@@ -19,7 +19,7 @@ harsh.agarwal2019@vitbhopal.ac.in
 
 
 <!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/harshagarwal94/count.svg?align=center)
 
 
