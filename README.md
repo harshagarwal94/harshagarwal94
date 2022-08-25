@@ -11,7 +11,9 @@ harsh.agarwal2019@vitbhopal.ac.in
 <hr>
 
 #### 🌱 Stats:
-
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/harshagarwal94/count.svg?align=center)
 
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshagarwal94)](https://github.com/harshagarwal94/github-readme-stats)
 
