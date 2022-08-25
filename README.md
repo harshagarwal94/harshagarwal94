@@ -30,6 +30,18 @@ harsh.agarwal2019@vitbhopal.ac.in
 <hr>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshagarwal94&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<hr>
+
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=harshagarwal94&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
+
+
+
+
+ -->
+ 
+ 
 <!--
 **harshagarwal94/harshagarwal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
