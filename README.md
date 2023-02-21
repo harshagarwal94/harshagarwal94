@@ -42,9 +42,9 @@ harsh.agarwal2019@vitbhopal.ac.in
 <hr>
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshagarwal94&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
-
-[![harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harshagarwal94&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshagarwal94&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+-->
+[![harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harshagarwal94&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
